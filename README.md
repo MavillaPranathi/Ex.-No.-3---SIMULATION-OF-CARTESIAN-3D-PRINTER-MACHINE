@@ -48,15 +48,49 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+### X-AXIS ASSEMBLY
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+![image](https://github.com/MavillaPranathi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118343610/753b7a48-5dd6-4401-b132-639e2a11788b)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+### SMOOTH ROD
+  cylindrical rods, usually made from metal like aluminium or steel.
+### BEARING
+  bearing refers to a mechanical component used to reduce friction and facilitate smooth movement between two or more parts
+### IDLER
+  An idler refers to a component that is responsible for guiding and tensioning a filament during the printing process.
+### EXTRUDER
+  a filament feeding mechanism used in many fused filament fabrication (FFF) 3D printers
+### MOTOR
+  used to move the extruder or the build platform alone the x, y, and z axis.
+   
+### Y-AXIS ASSEMBLY
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+![image](https://github.com/MavillaPranathi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118343610/482eb96a-2bdd-4789-8b55-a7b655d5a446)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+### Y-AXIS SUPPORTER
+   Y-axis supporter refers to a structural component that provides support and stability to the Y-axis motion system.
+### HORIZANTAL AND VERTICAL THREADED ROD
+   The horizontal threaded rod is often used to control the movement along the X-axis or Y-axis in a 3D printer.
+   The vertical threaded rod is used for controlling the movement along the Z-axis in a 3D printer.
+### SMOOTH ROD
+     cylindrical rods, usually made from metal like aluminium or steel.
+### PULLEY
+     a small mechanical device used to help guide and position the print head.
+### MOTOR
+    used to move the extruder or the build platform alone the x, y, and z axis.
+### Y-AXIS FRAME
+    Y-axis frame refers to the structural component that supports and holds the Y-axis motion system. The Y-axis is one of the three primary axes in a 3D printer, responsible for the movement of the print bed or build plate in the horizontal direction perpendicular to the X-axis.
+### Y-AXIS BASE
+    Y-base frame refers to the lowermost structural component that forms the foundation and support for the Y-axis motion system. It serves as the base or platform on which the entire Y-axis assembly is built.
+    
+### Z-AXIS ASSEMBLY
+![image](https://github.com/MavillaPranathi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118343610/b16522f5-b26f-4ca3-9e0b-38a20ff7f89e)
+
+### Z-Axis Rod :
+the Z-axis rod refers to a vertical cylindrical shaft that is utilized for linear motion along the Z-axis
+
+### Z-Axis Top Cover :
+the Z-axis top cover refers to a component that encloses and protects the upper part of the Z-axis structure.
 
 ## Output:
 
