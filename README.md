@@ -1,5 +1,5 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE:19-5-23
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -54,12 +54,16 @@
 
 SMOOTH ROD:
   Cylindrical rods, usually made from metal like aluminium or steel.
+  
 BEARING:
   Bearing refers to a mechanical component used to reduce friction and facilitate smooth movement between two or more parts
+  
 IDLER:
   An idler refers to a component that is responsible for guiding and tensioning a filament during the printing process.
+  
 EXTRUDER:
   A filament feeding mechanism used in many fused filament fabrication (FFF) 3D printers
+  
 MOTOR:
   used to move the extruder or the build platform alone the x, y, and z axis.
    
@@ -69,19 +73,25 @@ MOTOR:
 
 Y-AXIS SUPPORTER:
    Y-axis supporter refers to a structural component that provides support and stability to the Y-axis motion system.
+   
 HORIZANTAL AND VERTICAL THREADED ROD:
-   The horizontal threaded rod is often used to control the movement along the X-axis or Y-axis    in a 3D printer.
-   The vertical threaded rod is used for controlling the movement along the Z-axis in a 3D        printer.
+   The horizontal threaded rod is often used to control the movement along the X-axis or Y-axis in a 3D printer.
+   The vertical threaded rod is used for controlling the movement along the Z-axis in a 3D printer.
+   
 SMOOTH ROD:
      cylindrical rods, usually made from metal like aluminium or steel.
+     
 PULLEY:
      a small mechanical device used to help guide and position the print head.
+     
 MOTOR:
     used to move the extruder or the build platform alone the x, y, and z axis.
+    
 Y-AXIS FRAME:
-    Y-axis frame refers to the structural component that supports and holds the Y-axis motion      system. The Y-axis is one of the three primary axes in a 3D printer, responsible for the        movement of the print bed or build plate in the horizontal direction perpendicular to the X-    axis.
+    Y-axis frame refers to the structural component that supports and holds the Y-axis motion system. The Y-axis is one of the three primary axes in a 3D printer, responsible for the movement of the print bed or build plate in the horizontal direction perpendicular to the X- axis.
+    
 Y-AXIS BASE:
-    Y-base frame refers to the lowermost structural component that forms the foundation and         support for the Y-axis motion system. It serves as the base or platform on which the entire     Y-axis assembly is built.
+    Y-base frame refers to the lowermost structural component that forms the foundation and support for the Y-axis motion system. It serves as the base or platform on which the entire Y-axis assembly is built.
     
 ### Z-AXIS ASSEMBLY
 ![image](https://github.com/MavillaPranathi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118343610/b16522f5-b26f-4ca3-9e0b-38a20ff7f89e)
@@ -94,7 +104,7 @@ the Z-axis top cover refers to a component that encloses and protects the upper 
 
 Motor : a motor is a critical component responsible for driving the vertical motion along the Z-axis.
 
-Completed Assembly
+### Completed Assembly
 
 ![239237064-7f963703-ecaf-4940-87f7-88b710f5e0ef](https://github.com/MavillaPranathi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118343610/cec5fcb9-783e-42f4-bb3c-8b2a6d176076)
 
